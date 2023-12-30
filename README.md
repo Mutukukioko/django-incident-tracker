@@ -74,8 +74,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 For questions or collaboration, feel free to reach out:
 
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-```
+- Email: imutkupc@gmail.com
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/harrisonmutuku)
 
-Replace placeholder values like `your.email@example.com` and `[Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)` with your actual information. Additionally, consider adding a `CONTRIBUTING.md` file if you have specific contribution guidelines.
+
