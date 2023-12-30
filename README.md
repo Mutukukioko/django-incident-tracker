@@ -75,6 +75,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 For questions or collaboration, feel free to reach out:
 
 - Email: imutkupc@gmail.com
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/harrisonmutuku)
+- LinkedIn: [www.linkedin.com/in/harrisonmutuku](www.linkedin.com/in/harrisonmutuku)
 
 
